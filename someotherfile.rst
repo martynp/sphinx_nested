@@ -1,6 +1,6 @@
 bar
 ===
 
-Some more text here...
+Some more text here... :ref:`foo reference`
 
-.. todo:: Fix that
+.. todo:: Fix that :ref:`foo reference`
